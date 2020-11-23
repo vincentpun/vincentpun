@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋 My name is Vincent.
 
-<!--
-**vincentpun/vincentpun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a MS in Computer Science student at University of Massachusetts Amherst.
+I'm interested in 📜&nbsp;programming languages, 🛠️&nbsp;developer tools and
+frameworks, 🌐&nbsp;scalable web apps, and 🧠&nbsp;artificial intelligence.
 
-Here are some ideas to get you started:
+🧑‍💻 These are the languages and technologies that I have used and like:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React
+- TypeScript
+- Go
+- Swift
+- Objective-C
+- Docker
+- Python
+
+🍀 I'm currently learning distributed systems, building DSLs, and Rust.
+
+📮 Reach out to me on [LinkedIn](https://linkedin.com/in/vincent-pun)!
