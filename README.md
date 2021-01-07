@@ -1,8 +1,6 @@
 ### Hi there 👋 My name is Vincent.
 
 I'm a MS in Computer Science student at University of Massachusetts Amherst.
-I'm interested in 📜&nbsp;programming languages, 🛠️&nbsp;developer tools and
-frameworks, 🌐&nbsp;scalable web apps, and 🧠&nbsp;artificial intelligence.
 
 🧑‍💻 These are the languages and technologies that I have used and like:
 
